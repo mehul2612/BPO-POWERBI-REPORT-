@@ -6,7 +6,7 @@ This Power BI dashboard provides a comprehensive view of BPO (Business Process O
 
 ## Dashboard Preview
 
-![Dashboard Preview](path/to/your/dashboard/image.png)
+![Dashboard Preview]("D:\PowerBI\BPO_DB\Screenshot 2024-01-02 114509.png")
 
 ## Features
 
@@ -26,4 +26,4 @@ This Power BI dashboard provides a comprehensive view of BPO (Business Process O
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/bpo-of-usa-dashboard.git
+   git clone https://github.com/mehul2612/BPO-POWERBI-REPORT.git
